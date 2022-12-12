@@ -4,11 +4,11 @@ Super Street Fighter 2X Tournament Battle
 
 SSF2XTB patch must be applied to a decrypted SSF2XJ (940223)
 
-*Darksoft Install:
+# Darksoft Install:
 
 Apply the darksoft IPS file to the .02 file of your ssf2xjdi darksoft rom.
 
-*MAME/Hardware Install:
+# MAME/Hardware Install:
 
 Extract your ssf2xj files to a new directory
 
