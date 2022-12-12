@@ -32,3 +32,8 @@ The tenth file 'sfxjtb.10' has been provided in its entirety and should also be 
 
 You can download a compatible version of mame here:
 
+https://www.dropbox.com/s/q74gavybv8w0wme/cps2net64.exe?dl=0
+
+The source for this build of mame and directions for use can be found here:
+
+https://github.com/originalgrego/mame/blob/master/src/mame/machine/cps2network.cpp
